@@ -1,4 +1,4 @@
-def move(my_list, direction=None):
+def move(my_list, direction):
     # Finds the index of the one in the list
     index_of_one = my_list.index(1)
 
