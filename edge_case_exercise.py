@@ -11,5 +11,4 @@ def move(my_list, direction):
         my_list[index_of_one - 1] = 1
     else:
         my_list = my_list
-
-    return my_list
+    return (my_list)
